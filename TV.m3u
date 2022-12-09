@@ -1,4 +1,4 @@
-#EXTM3U url-epg="https://iptvx.one/EPG" url-logo="https://picon.ml/"
+#EXTM3U url-tvg="https://iptvx.one/EPG" url-logo="https://picon.ml/"
 #EXTINF:-1 tvg-logo="pervy-pl2.png" tvg-id="pervy-pl2" group-title="Общие", Первый канал
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="rossia1-pl2.png" tvg-id="rossia1-pl2" group-title="Общие", Россия 1
