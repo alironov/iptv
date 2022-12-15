@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgtut.tk/epg.xml.gz"
+#EXTM3U"
 #EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" group-title="Телевидение" tvg-id="pervy-pl2", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
