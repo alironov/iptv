@@ -1,103 +1,283 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" url-logo="https://picon.ml/"
-#EXTINF:-1 tvg-logo="pervy-pl2.png" tvg-id="pervy-pl2" group-title="Общие", Первый канал
+#EXTM3U url-tvg="https://iptvx.one/EPG catchup="default" catchup-days="3""
+#EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" group-title="Телевидение" tvg-id="pervy-pl2", Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="rossia1-pl2.png" tvg-id="rossia1-pl2" group-title="Общие", Россия 1
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia1-pl2.png" group-title="Телевидение" tvg-id="rossia1-pl2", Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="ntv-pl2.png" tvg-id="ntv-pl2" group-title="Общие", НТВ
+#EXTINF:-1 tvg-logo="https://picon.ml/ntv-pl2.png" group-title="Телевидение" tvg-id="ntv-pl2", НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="domashny-pl2.png" tvg-id="domashny-pl2" group-title="Общие", Домашний
+#EXTINF:-1 tvg-logo="https://picon.ml/domashny-pl2.png" group-title="Телевидение" tvg-id="domashny-pl2", Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="tnt-pl2.png" tvg-id="tnt-pl2" group-title="Общие", ТНТ
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt-pl2.png" group-title="Телевидение" tvg-id="tnt-pl2", ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="sts-pl2.png" tvg-id="sts-pl2" group-title="Общие", СТС
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-pl2.png" group-title="Телевидение" tvg-id="sts-pl2", СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="zvezda-pl2.png" tvg-id="zvezda-pl2" group-title="Общие", Звезда
+#EXTINF:-1 tvg-logo="https://picon.ml/zvezda-pl2.png" group-title="Телевидение" tvg-id="zvezda-pl2", Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="tvcentr-pl2.png" tvg-id="tvcentr-pl2" group-title="Общие", ТВ Центр
+#EXTINF:-1 tvg-logo="https://picon.ml/tvcentr-pl2.png" group-title="Телевидение" tvg-id="tvcentr-pl2", ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="pobeda.png" tvg-id="pobeda" group-title="Общие", Победа
+#EXTINF:-1 tvg-logo="https://picon.ml/pobeda.png" group-title="Телевидение" tvg-id="pobeda", Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://langamepp.com/chtst/AF4D6711DFA039B732A36F4F596F35569D7C5325EF9145678D73D19FE8BF80861B9DD74AAFD751DB41FE
-#EXTINF:-1 tvg-logo="mosfilm.png" tvg-id="mosfilm" group-title="Общие", Мосфильм. Золотая коллекция
-http://langamepp.com/chtst/EFBB77449CB303570DBF81D28B22541FDD8A4370AC827F87B16F3F030AF3D0CF576BCC951063BF79DD08516C5B9984A13E39A7F44D3CD3EDDD0151695B9984AA3F01A6C24C0BD2D865DBDAA2FC4A386CB2
-#EXTINF:-1 tvg-logo="pervy.png" tvg-id="pervy" group-title="Общие", Первый канал HD
+#EXTINF:-1 tvg-logo="https://picon.ml/mosfilm.png" group-title="Телевидение" tvg-id="mosfilm", Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://strm.yandex.ru/kal/mosfilm_zk/manifest.mpd
+#EXTINF:-1 tvg-logo="https://picon.ml/pervy.png" group-title="Телевидение" tvg-id="pervy", Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="rossia1.png" tvg-id="rossia1" group-title="Общие", Россия 1 HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="5kanal-ru-pl2.png" tvg-id="5kanal-ru-pl2" group-title="Общие", Пятый канал
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia1.png" group-title="Телевидение" tvg-id="rossia1", Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDs4SV3.jpg" group-title="Телевидение" tvg-id="solovjinypomiot", Соловьев.Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/5kanal-ru-pl2.png" group-title="Телевидение" tvg-id="5kanal-ru-pl2", Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="rentv-pl2.png" tvg-id="rentv-pl2" group-title="Общие", РЕН ТВ
+#EXTINF:-1 tvg-logo="https://picon.ml/rentv-pl2.png" group-title="Телевидение" tvg-id="rentv-pl2", РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="tnt4-pl2.png" tvg-id="tnt4-pl2" group-title="Общие", ТНТ4
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt4-pl2.png" group-title="Телевидение" tvg-id="tnt4-pl2", ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="muztv-pl2.png" tvg-id="muztv-pl2" group-title="Общие", Муз ТВ
+#EXTINF:-1 tvg-logo="https://picon.ml/muztv-pl2.png" group-title="Телевидение" tvg-id="muztv-pl2", Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="sts-love-pl2.png" tvg-id="sts-love-pl2" group-title="Общие", СТС Love
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-love-pl2.png" group-title="Телевидение" tvg-id="sts-love-pl2", СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="rossia-24.png" tvg-id="rossia-24" group-title="Общие", Россия 24
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia-24.png" group-title="Телевидение" tvg-id="rossia-24", Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="piatnica-pl2.png" tvg-id="piatnica-pl2" group-title="Общие", Пятница!
+#EXTINF:-1 tvg-logo="https://picon.ml/piatnica-pl2.png" group-title="Телевидение" tvg-id="piatnica-pl2", Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="che-pl2.png" tvg-id="che-pl2" group-title="Общие", Че!
+#EXTINF:-1 tvg-logo="https://picon.ml/che-pl2.png" group-title="Телевидение" tvg-id="che-pl2", Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="yu-pl2.png" tvg-id="yu-pl2" group-title="Общие", Ю
+#EXTINF:-1 tvg-logo="https://picon.ml/yu-pl2.png" group-title="Телевидение" tvg-id="yu-pl2", Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="subbota-pl2.png" tvg-id="super-pl2" group-title="Общие", Суббота
+#EXTINF:-1 tvg-logo="https://picon.ml/subbota-pl2.png" group-title="Телевидение" tvg-id="super-pl2", Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="tv3-ru-pl2.png" tvg-id="tv3-ru-pl2" group-title="Общие", ТВ 3
+#EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru-pl2.png" group-title="Телевидение" tvg-id="tv3-ru-pl2", ТВ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="2x2-pl2.png" tvg-id="2na2-pl2" group-title="Общие", 2x2
+#EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" group-title="Телевидение" tvg-id="2na2-pl2", 2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="disney-pl2.png" tvg-id="disney-pl2" group-title="Общие", Disney
+#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" group-title="Телевидение" tvg-id="disney-pl2", Disney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="karusel-pl2.png" tvg-id="karusel-pl2" group-title="Общие", Карусель
+#EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" group-title="Телевидение" tvg-id="karusel-pl2", Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="mir-pl2.png" tvg-id="mir-pl2" group-title="Общие", Мир
+#EXTINF:-1 tvg-logo="https://picon.ml/mir-pl2.png" group-title="Телевидение" tvg-id="mir-pl2", Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="kultura-pl2.png" tvg-id="kultura-pl2" group-title="Общие", Россия К
+#EXTINF:-1 tvg-logo="https://picon.ml/kultura-pl2.png" group-title="Телевидение" tvg-id="kultura-pl2", Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="otr-pl2.png" tvg-id="otr-pl2" group-title="Общие", ОТР
+#EXTINF:-1 tvg-logo="https://picon.ml/otr-pl2.png" group-title="Телевидение" tvg-id="otr-pl2", ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="match-tv.png" tvg-id="match-tv" group-title="Общие", Матч! ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="amedia1.png" tvg-id="amedia1" group-title="Общие", Амедиа 1
+#EXTINF:-1 tvg-logo="https://picon.ml/match-tv.png" group-title="Телевидение" tvg-id="match-tv", Матч! ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia1.png" group-title="Телевидение" tvg-id="amedia1", Амедиа 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 tvg-logo="amedia2.png" tvg-id="amedia2" group-title="Общие", Амедиа 2
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia2.png" group-title="Телевидение" tvg-id="amedia2", Амедиа 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:-1 tvg-logo="amedia-hit.png" tvg-id="amedia-hit" group-title="Общие", Амедиа Хит
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia-hit.png" group-title="Телевидение" tvg-id="amedia-hit", Амедиа Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1 tvg-logo="kineko.png" tvg-id="kineko" group-title="Общие", Кинеко
+#EXTINF:-1 tvg-logo="https://picon.ml/kineko.png" group-title="Телевидение" tvg-id="kineko", Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 tvg-logo="sapfir.png" tvg-id="sapfir" group-title="Общие", Сапфир
+#EXTINF:-1 tvg-logo="https://picon.ml/sapfir.png" group-title="Телевидение" tvg-id="sapfir", Сапфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-#EXTINF:-1 tvg-logo="vip-serial.png" tvg-id="vip-serial" group-title="Общие", VIP Serial
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-serial.png" group-title="Телевидение" tvg-id="vip-serial", VIP Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 tvg-logo="vip-premiere.png" tvg-id="vip-premiere" group-title="Общие", VIP Premiere
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-premiere.png" group-title="Телевидение" tvg-id="vip-premiere", VIP Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 tvg-logo="vip-megahit.png" tvg-id="vip-megahit" group-title="Общие", VIP Megahit
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-megahit.png" group-title="Телевидение" tvg-id="vip-megahit", VIP Megahit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 tvg-logo="vip-comedy.png" tvg-id="vip-comedy" group-title="Общие", VIP Comedy
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-comedy.png" group-title="Телевидение" tvg-id="vip-comedy", VIP Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 tvg-logo="tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino" group-title="Общие", TV1000 Русское кино
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000-russkoe-kino.png" group-title="Телевидение" tvg-id="tv1000-russkoe-kino", TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 tvg-logo="tv1000.png" tvg-id="tv1000" group-title="Общие", TV1000 HD
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000.png" group-title="Телевидение" tvg-id="tv1000", TV1000 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 tvg-logo="tv1000-action.png" tvg-id="tv1000-action" group-title="Общие", TV1000 Action HD
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000-action.png" group-title="Телевидение" tvg-id="tv1000-action", TV1000 Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 tvg-logo="start-world.png" tvg-id="start-world" group-title="Общие", START World HD
+#EXTINF:-1 tvg-logo="https://picon.ml/start-world.png" group-title="Телевидение" tvg-id="start-world", START World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
-#EXTINF:-1 tvg-logo="start-air.png" tvg-id="start-air" group-title="Общие", START Air HD
+#EXTINF:-1 tvg-logo="https://picon.ml/start-air.png" group-title="Телевидение" tvg-id="start-air", START Air HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1 tvg-logo="viasat-nature.png" tvg-id="viasat-nature" group-title="Общие", Viasat Nature
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-nature.png" group-title="Телевидение" tvg-id="viasat-nature", Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 tvg-logo="viasat-explore.png" tvg-id="viasat-explore" group-title="Общие", Viasat Explore
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-explore.png" group-title="Телевидение" tvg-id="viasat-explore", Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 tvg-logo="viasat-history.png" tvg-id="viasat-history" group-title="Общие", Viasat History
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-history.png" group-title="Телевидение" tvg-id="viasat-history", Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 tvg-logo="terra-ru.png" tvg-id="terra-ru" group-title="Общие", Terra
+#EXTINF:-1 tvg-logo="https://picon.ml/terra-ru.png" group-title="Телевидение" tvg-id="terra-ru", Terra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 tvg-logo="sony-scifi.png" tvg-id="sony-scifi" group-title="Общие", Sci-Fi
+#EXTINF:-1 tvg-logo="https://picon.ml/sony-scifi.png" group-title="Телевидение" tvg-id="sony-scifi", Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 tvg-logo="sony-turbo.png" tvg-id="sony-turbo" group-title="Общие", Black
+#EXTINF:-1 tvg-logo="https://picon.ml/sony-turbo.png" group-title="Телевидение" tvg-id="sony-turbo", Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 tvg-logo="sony.png" tvg-id="sony-tv" group-title="Общие", Red
+#EXTINF:-1 tvg-logo="https://picon.ml/sony.png" group-title="Телевидение" tvg-id="sony-tv", Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0e9VI6o.png" group-title="Три аккорда", Три аккорда. Выпуск 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v5-dtln.1internet.tv/video/multibitrate/video/2021/05/15/5d69277f-daab-472b-8ad0-97355f41870c_HD-news-2021_05_14-23_34_40_3876488_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/OIohXaO.png" group-title="Три аккорда", Три аккорда. Выпуск 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v8-dtln.1internet.tv/video/multibitrate/video/2021/05/22/e3cda0c4-3ca1-4aec-9831-7ca9bd240982_HD-news-2021_05_21-23_20_39_2601492_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/rQPCakc.png" group-title="Три аккорда", Три аккорда. Выпуск 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v3-dtln.1internet.tv/video/multibitrate/video/2021/05/29/0d5cf0cc-4ef3-41c9-ac8c-c3d13ff3daae_HD-news-2021_05_28-23_15_54_7334030_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ov18WYx.png" group-title="Три аккорда", Три аккорда. Выпуск 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v6-dtln.1internet.tv/video/multibitrate/video/2021/06/05/ab080a84-c18d-4cb6-8046-896bb321bdfb_tri-akkorda-20210604_3689718_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/K7EWfvm.png" group-title="Три аккорда", Три аккорда. Выпуск 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v4-dtln.1internet.tv/video/multibitrate/video/2021/06/20/54fca0d7-65cc-47a9-8fc8-177cd14774a0_tri-akkorda-20210620_2999323_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/3wicvHB.png" group-title="Три аккорда", Три аккорда. Выпуск 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v4-dtln.1internet.tv/video/multibitrate/video/2022/08/18/b31b4b9d-67fe-438e-bb9b-92dbcf34a4f4_HD-news-2022_08_18-20_23_36_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/OeUvc5p.png" group-title="Три аккорда", Три аккорда. Выпуск 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v3-dtln.1internet.tv/video/multibitrate/video/2021/07/11/1dc236a6-7ecc-49b8-9295-018d82eb06a8_HD-news-2021_07_11-21_00_56_1424583_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qGAnJ4F.png" group-title="Три аккорда", Три аккорда. Выпуск 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v1-rtc.1internet.tv/video/multibitrate/video/2021/07/18/2fea416a-9067-479a-8f83-12fbb5f3d5a0_tri-akkorda-20210718_7325027_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xkk0S6b.png" group-title="Три аккорда", Три аккорда. Выпуск 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v6-dtln.1internet.tv/video/multibitrate/video/2021/07/25/db140e11-6c44-47be-bfff-a6df51f5fb47_HD-news-2021_07_25-21_00_29_3282466_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/VFCEvQA.png" group-title="Три аккорда", Три аккорда. Выпуск 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v3-dtln.1internet.tv/video/multibitrate/video/2021/08/01/9418a755-102b-4494-8afd-8716f7e68d6d_HD-news-2021_08_01-21_00_09_1654895_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/XD0Sh6j.png" group-title="Три аккорда", Три аккорда. Лучшее 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v8-dtln.1internet.tv/video/multibitrate/video/2021/08/09/1e68f991-ba3e-4f4d-adac-98f3c5bdcb12_HD-news-2021_08_08-21_06_32_8308178_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/EoWwFDH.png" group-title="Три аккорда", Три аккорда. Лучшее 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://v1-rtc.1internet.tv/video/multibitrate/video/2021/08/22/35ad1076-4e50-4931-935e-edcd734e245c_HD-news-2021_08_22-21_08_04_5837569_cut_,350,950,3800,.mp4.urlset/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/HMeakgT.jpg" group-title="Советские фильмы", Девчата (1962)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/06_25_21/06/25/16/35V2HMLU/S6FX53XS.mp4/index-v1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/lJHeuJp.jpg" group-title="Советские фильмы", Любовь и голуби (1984)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/07_21_21/07/21/17/FMNUTFOY/OH7TVE2N.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/yntF96c.jpg" group-title="Советские фильмы", Москва слезам не верит (1979)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcdizbdi.takedwn.ws/01_27_21/01/27/01/FWZU6Q4A/HPCE63WK.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/A4Pqnw7.jpg" group-title="Советские фильмы", Курьер (1986)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/06_15_21/06/15/13/IXVBXW4E/XF3AD764.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/FxEeFNZ.jpg" group-title="Советские фильмы", Небеса обетованные (1991)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/06_11_20/06/11/11/SR7RHSCT/Y7TFNRIP.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/UbYLCdl.jpg" group-title="Советские фильмы", Вокзал для двоих (1982)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/05_06_20/05/06/16/33GNGR3Q/4UM7GXJ2.mp4/index-v1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/7jvIczy.jpg" group-title="Советские фильмы", Жестокий романс (1984)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/02_28_20/02/28/13/xxpwr9yU/1080_9c4y72yr.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/lu3zKLy.jpg" group-title="Советские фильмы", Калина красная (1973)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/05_06_20/05/06/18/3WRKJWYC/6JHUYGSF.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/xQ6wdNq.jpg" group-title="Советские фильмы", Афоня (1975)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/06_19_20/06/19/23/TTK3FZS2/W4FM65VQ.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/r9mFR16.jpg" group-title="Советские фильмы", Осенний марафон (1979)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_14_20/07/14/09/A55FVDHF/JJDY42DY.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/8utI2Xo.jpg" group-title="Советские фильмы", Женитьба Бальзаминова (1964)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_18_20/07/18/09/6TRPFQVR/64W43JGQ.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/bAn8oqg.jpg" group-title="Советские фильмы", Три плюс два (1963)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/01_16_20/01/16/20/UXpiGZA3/1080_lc6PTvk3.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/6kSN4Gl.jpg" group-title="Советские фильмы", Три тополя на Плющихе (1968)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcdizbdi.takedwn.ws/07_11_20/07/11/08/IPDU25NG/XIJWPW7L.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/iimiSQE.jpg" group-title="Советские фильмы", Стряпуха (1966)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/07_17_20/07/17/05/IUM3FL6A/D4AY2LWO.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/I3lFpQc.jpg" group-title="Советские фильмы", Не могу сказать прощай (1982)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcdizbdi.takedwn.ws/07_14_20/07/14/06/MYCWG75M/OT2MAYE7.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/jGJe3gi.jpg" group-title="Советские фильмы", Мужики!.. (1981)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/06_10_20/06/10/17/J6M74RYO/TIM5ELFU.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/oh80JSC.jpg" group-title="Советские фильмы", Приходите завтра... (1962)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_10_20/07/10/14/ZUO5S2ZE/ZNQS5JWD.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/5MW5kMd.jpg" group-title="Советские фильмы", Весна на Заречной улице (1956)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcdizbdi.takedwn.ws/07_12_20/07/12/07/JE2RO6GZ/SXPNWJN7.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/GGwMlYP.jpg" group-title="Советские фильмы", Дело было в Пенькове (1957)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcdizbdi.takedwn.ws/06_15_20/06/15/14/6H27K6MP/LY3JAKAI.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/A5pFZvd.jpg" group-title="Советские фильмы", Живет такой парень (1964)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/05_28_20/05/28/16/CAFLKWQQ/DJEPYG44.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/33JWrRq.jpg" group-title="Советские фильмы", Кубанские казаки (1949)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_11_20/07/11/04/GY45GI3N/T5TAQF6G.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/t5YzncN.jpg" group-title="Советские фильмы", Алые паруса (1961)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_18_20/07/18/03/HQGA5LCU/APIAZW7D.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/6nJ43bC.jpg" group-title="Советские фильмы", Добро пожаловать, или Посторонним вход воспрещен (1964)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/07_12_20/07/12/08/2OLT3GMX/UWI7CSAR.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/4hJVrs7.jpg" group-title="Советские фильмы", Самая обаятельная и привлекательная (1985)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/06_24_20/06/24/15/ATFPWLX4/NP7MK7QQ.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/bXdjZdk.jpg" group-title="Советские фильмы", Где находится нофелет (1987)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_17_20/07/17/14/DBS3X2C6/3EN2OCQM.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/8CfhVsB.jpg" group-title="Советские фильмы", Карнавал (1981)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/06_19_20/06/19/11/47HQ5B6U/VAUD43A7.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/oYpMhXy.jpg" group-title="Советские фильмы", Интердевочка (1989)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/07_11_20/07/11/02/HWTINOCO/DTC4DKME.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/KhA0TBo.jpg" group-title="Советские фильмы", Родня (1981)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcezbdi.takedwn.ws/06_26_20/06/26/17/ZWZR5ZA6/HCT4JEZT.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/BTYS9TP.jpg" group-title="Советские фильмы", Экипаж (1979)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://fazhzcczbdi.takedwn.ws/06_11_20/06/11/15/MWDU4GNS/S7Y5SMTN.mp4/index-v1-a1-a1.m3u8?x-cdn=10551403
+#EXTINF:0 tvg-logo="https://i.imgur.com/7MDbglG.jpg" group-title="Советские фильмы", Морозко (1964)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+https://mimin.cloud.cdnland.in/065b89e3b54153af2855db59a49d9d64:2022121514/movies/4644b5098f7dfb384077920ccaf74982493c51fe/480.mp4
