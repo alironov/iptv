@@ -11,8 +11,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8?version
 #EXTINF:-1 tvg-logo="https://picon.ml/domashny-pl2.png" group-title="Телевидение" tvg-id="domashny-pl2", Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-shift="-2" tvg-logo="https://picon.ml/tnt-pl2.png" group-title="Телевидение" tvg-id="tnt-pl2", ТНТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt-pl2.png" group-title="Телевидение" tvg-id="tnt-pl2", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://picon.ml/sts-pl2.png" group-title="Телевидение" tvg-id="sts-pl2", СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
