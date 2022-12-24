@@ -63,10 +63,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/video_720x540_avc1/variant.
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/yu-pl2.png" group-title="Телевидение" tvg-id="yu-pl2", Ю (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/subbota-pl2.png" group-title="Телевидение" tvg-id="super-pl2", Суббота (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/video_720x540_avc1/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru-pl2.png" group-title="Телевидение" tvg-id="tv3-ru-pl2", ТВ 3 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/video_720x540_avc1/variant.m3u8
