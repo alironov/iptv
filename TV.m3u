@@ -1,33 +1,33 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG catchup="default" catchup-days="3""
-#EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" group-title="Телевидение" tvg-id="pervy-pl2", Первый канал
+#EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" group-title="Телевидение" tvg-id="pervy-pl2", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/rossia1-pl2.png" group-title="Телевидение" tvg-id="rossia1-pl2", Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia1-pl2.png" group-title="Телевидение" tvg-id="rossia1-pl2", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/ntv-pl2.png" group-title="Телевидение" tvg-id="ntv-pl2", НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/ntv-pl2.png" group-title="Телевидение" tvg-id="ntv-pl2", НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/domashny-pl2.png" group-title="Телевидение" tvg-id="domashny-pl2", Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/domashny-pl2.png" group-title="Телевидение" tvg-id="domashny-pl2", Домашний (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/tnt-pl2.png" group-title="Телевидение" tvg-id="tnt-pl2", ТНТ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/sts-pl2.png" group-title="Телевидение" tvg-id="sts-pl2", СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt-pl2.png" group-title="Телевидение" tvg-id="tnt-pl2", ТНТ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-pl2.png" group-title="Телевидение" tvg-id="sts-pl2", СТС (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/zvezda-pl2.png" group-title="Телевидение" tvg-id="zvezda-pl2", Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/zvezda-pl2.png" group-title="Телевидение" tvg-id="zvezda-pl2", Звезда (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/tvcentr-pl2.png" group-title="Телевидение" tvg-id="tvcentr-pl2", ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tvcentr-pl2.png" group-title="Телевидение" tvg-id="tvcentr-pl2", ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/pobeda.png" group-title="Телевидение" tvg-id="pobeda", Победа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-http://langamepp.com/chtst/AF4D6711DFA039B732A36F4F596F35569D7C5325EF9145678D73D19FE8BF80861B9DD74AAFD751DB41FE
+http://hls.peers.tv/streaming/pobeda/16/w540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/mosfilm.png" group-title="Телевидение" tvg-id="mosfilm", Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://strm.yandex.ru/kal/mosfilm_zk/manifest.mpd
+http://hls.peers.tv/streaming/mosfilm/16/w540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/pervy.png" group-title="Телевидение" tvg-id="pervy", Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
@@ -37,57 +37,57 @@ https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDs4SV3.jpg" group-title="Телевидение" tvg-id="solovjinypomiot", Соловьев.Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
-#EXTINF:-1 tvg-logo="https://picon.ml/5kanal-ru-pl2.png" group-title="Телевидение" tvg-id="5kanal-ru-pl2", Пятый канал
+#EXTINF:-1 tvg-logo="https://picon.ml/5kanal-ru-pl2.png" group-title="Телевидение" tvg-id="5kanal-ru-pl2", Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/rentv-pl2.png" group-title="Телевидение" tvg-id="rentv-pl2", РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/rentv-pl2.png" group-title="Телевидение" tvg-id="rentv-pl2", РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/tnt4-pl2.png" group-title="Телевидение" tvg-id="tnt4-pl2", ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt4-pl2.png" group-title="Телевидение" tvg-id="tnt4-pl2", ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/muztv-pl2.png" group-title="Телевидение" tvg-id="muztv-pl2", Муз ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/muztv-pl2.png" group-title="Телевидение" tvg-id="muztv-pl2", Муз ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/sts-love-pl2.png" group-title="Телевидение" tvg-id="sts-love-pl2", СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-love-pl2.png" group-title="Телевидение" tvg-id="sts-love-pl2", СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/rossia-24.png" group-title="Телевидение" tvg-id="rossia-24", Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/piatnica-pl2.png" group-title="Телевидение" tvg-id="piatnica-pl2", Пятница!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/piatnica-pl2.png" group-title="Телевидение" tvg-id="piatnica-pl2", Пятница! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/che-pl2.png" group-title="Телевидение" tvg-id="che-pl2", Че!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/che-pl2.png" group-title="Телевидение" tvg-id="che-pl2", Че! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/yu-pl2.png" group-title="Телевидение" tvg-id="yu-pl2", Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/yu-pl2.png" group-title="Телевидение" tvg-id="yu-pl2", Ю (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/subbota-pl2.png" group-title="Телевидение" tvg-id="super-pl2", Суббота
+#EXTINF:-1 tvg-logo="https://picon.ml/subbota-pl2.png" group-title="Телевидение" tvg-id="super-pl2", Суббота (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru-pl2.png" group-title="Телевидение" tvg-id="tv3-ru-pl2", ТВ 3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru-pl2.png" group-title="Телевидение" tvg-id="tv3-ru-pl2", ТВ 3 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" group-title="Телевидение" tvg-id="2na2-pl2", 2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" group-title="Телевидение" tvg-id="2na2-pl2", 2x2 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" group-title="Телевидение" tvg-id="disney-pl2", Disney
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" group-title="Телевидение" tvg-id="disney-pl2", Солнце (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" group-title="Телевидение" tvg-id="karusel-pl2", Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" group-title="Телевидение" tvg-id="karusel-pl2", Карусель (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/mir-pl2.png" group-title="Телевидение" tvg-id="mir-pl2", Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/mir-pl2.png" group-title="Телевидение" tvg-id="mir-pl2", Мир (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/kultura-pl2.png" group-title="Телевидение" tvg-id="kultura-pl2", Россия К
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/kultura-pl2.png" group-title="Телевидение" tvg-id="kultura-pl2", Россия К (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://picon.ml/otr-pl2.png" group-title="Телевидение" tvg-id="otr-pl2", ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/otr-pl2.png" group-title="Телевидение" tvg-id="otr-pl2", ОТР (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/match-tv.png" group-title="Телевидение" tvg-id="match-tv", Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
