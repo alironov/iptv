@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG catchup="default" catchup-days="3""
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" group-title="Телевидение" tvg-id="pervy-pl2", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/video_800x450_avc1/variant.m3u8
