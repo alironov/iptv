@@ -49,7 +49,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/video_720x540_avc1/variant.m
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/video_720x540_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" tvg-id="2na2-pl2", 2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/video_720x540_avc1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" tvg-id="disney-pl2", Солнце (+2)
+#EXTINF:-1 tvg-logo="https://picon.ml/solnce.png" tvg-id="solnce-pl2", Солнце (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" tvg-id="karusel-pl2", Карусель (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/video_720x540_avc1/variant.m3u8
