@@ -73,7 +73,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/video_720x540_avc1/variant.m3u
 #EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" group-title="Телевидение" tvg-id="2na2-pl2", 2x2 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/video_720x540_avc1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" group-title="Телевидение" tvg-id="disney-pl2", Солнце (+2)
+#EXTINF:-1 tvg-logo="https://picon.ml/solnce.png" group-title="Телевидение" tvg-id="solnce-pl2", Солнце (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/video_800x450_avc1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" group-title="Телевидение" tvg-id="karusel-pl2", Карусель (+2)
