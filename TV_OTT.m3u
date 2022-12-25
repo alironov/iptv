@@ -1,0 +1,105 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-logo="https://picon.ml/pervy-pl2.png" tvg-id="pervy-pl2", Первый канал (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia1-pl2.png" tvg-id="rossia1-pl2", Россия 1 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/ntv-pl2.png" tvg-id="ntv-pl2", НТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/domashny-pl2.png" tvg-id="domashny-pl2", Домашний (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt-pl2.png" tvg-id="tnt-pl2", ТНТ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-pl2.png" tvg-id="sts-pl2", СТС (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/zvezda-pl2.png" tvg-id="zvezda-pl2", Звезда (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tvcentr-pl2.png" tvg-id="tvcentr-pl2", ТВ Центр (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/pobeda.png" tvg-id="pobeda", Победа
+http://hls.peers.tv/streaming/pobeda/16/w540/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/mosfilm.png" tvg-id="mosfilm", Мосфильм. Золотая коллекция
+http://hls.peers.tv/streaming/mosfilm/16/w540/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/pervy.png" tvg-id="pervy", Первый канал HD
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia1.png" tvg-id="rossia1", Россия 1 HD
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDs4SV3.jpg" tvg-id="solovjinypomiot", Соловьев.Live
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/5kanal-ru-pl2.png" tvg-id="5kanal-ru-pl2", Пятый канал (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/rentv-pl2.png" tvg-id="rentv-pl2", РЕН ТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tnt4-pl2.png" tvg-id="tnt4-pl2", ТНТ4 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/muztv-pl2.png" tvg-id="muztv-pl2", Муз ТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sts-love-pl2.png" tvg-id="sts-love-pl2", СТС Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/rossia-24.png" tvg-id="rossia-24", Россия 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/piatnica-pl2.png" tvg-id="piatnica-pl2", Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/che-pl2.png" tvg-id="che-pl2", Че! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/yu-pl2.png" tvg-id="yu-pl2", Ю (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/subbota-pl2.png" tvg-id="super-pl2", Суббота (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru-pl2.png" tvg-id="tv3-ru-pl2", ТВ 3 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/2x2-pl2.png" tvg-id="2na2-pl2", 2x2 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/disney-pl2.png" tvg-id="disney-pl2", Солнце (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/karusel-pl2.png" tvg-id="karusel-pl2", Карусель (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/mir-pl2.png" tvg-id="mir-pl2", Мир (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/kultura-pl2.png" tvg-id="kultura-pl2", Россия К (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/otr-pl2.png" tvg-id="otr-pl2", ОТР (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/video_720x540_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/match-tv.png" tvg-id="match-tv", Матч! ТВ
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia1.png" tvg-id="amedia1", A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia2.png" tvg-id="amedia2", A2 HD
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/amedia-hit.png" tvg-id="amedia-hit", Amedia Hit
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/kineko.png" tvg-id="kineko", Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sapfir.png" tvg-id="sapfir", Сапфир
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-serial.png" tvg-id="vip-serial", VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-premiere.png" tvg-id="vip-premiere", VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-megahit.png" tvg-id="vip-megahit", VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/vip-comedy.png" tvg-id="vip-comedy", VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino", TV1000 Русское кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000.png" tvg-id="tv1000", TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/tv1000-action.png" tvg-id="tv1000-action", TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/start-world.png" tvg-id="start-world", START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/start-air.png" tvg-id="start-air", START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-nature.png" tvg-id="viasat-nature", Viasat Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-explore.png" tvg-id="viasat-explore", Viasat Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/viasat-history.png" tvg-id="viasat-history", Viasat History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/terra-ru.png" tvg-id="terra-ru", Terra
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sony-scifi.png" tvg-id="sony-scifi", Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sony-turbo.png" tvg-id="sony-turbo", Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://picon.ml/sony.png" tvg-id="sony-tv", Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
